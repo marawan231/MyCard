@@ -1,7 +1,6 @@
 # mi_caard
 
-A new Flutter application.
-
+a simple flutter app to identify my self.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
